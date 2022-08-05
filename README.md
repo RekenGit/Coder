@@ -2,7 +2,7 @@
 Program umożliwiający Szyfrowanie i Rozszyfrowywanie pewnych wiadomości.
 Program ten jest napisany w C#
 
-- [PNG](https://imgur.com/a/PrsVFKI)
+https://imgur.com/a/PrsVFKI
 
 #### Ciekawostki
 Inspiracją do powstania tego programu był zwyczajna zabawa systemami Binarnymi oraz chęć szyfrowania wiadomości tak by tylko osoba wiedząca jak odszyfrować wiadomość mogła ją odczytać,
